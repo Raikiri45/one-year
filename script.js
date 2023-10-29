@@ -10,7 +10,7 @@ function getNames() {
         link = document.createTextNode('Click Me!');
         a.appendChild(link);
         a.title ='Click Me!';
-        a.href="file:///Users/michael/repos/one-years/one-year/page-one.html";
+        a.href="file:///Users/michael/repos/one-year/page-one.html";
         document.body.appendChild(a);
     }
     
