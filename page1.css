@@ -1,0 +1,112 @@
+html,
+body {
+    margin: 0;
+    height: 100%;
+}
+body {
+    background-color: #EEEEEE;
+}
+.header {
+    display:flex;
+    justify-content: center;
+    background-color: #fff6f6;
+    padding: 50px;
+    
+}
+h1 {
+    display: flex;
+    font-size: 44px;
+    
+}
+.eightball {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #eea1eb;
+    gap: 50px;
+    font-size: 26px;
+    padding: 100px;
+}
+.lovebutton {
+    padding: 20px 40px;
+}
+#inputtext {
+    font-size: 32px;
+}
+h2 {
+    font-size: 34px;
+    display: flex;
+    padding: 50px;
+}
+.catsection {
+    display: flex;
+    align-items: center;
+    background-color: #cb22d7;
+    flex-direction: column;
+    
+}
+img {
+    height: 300px;
+    width: 400px;
+}
+.subsection {
+    font-size: 20px;
+    padding:30px;
+}
+.us {
+    display: flex;
+    background-color: #891180;
+    flex-direction: column;
+}
+.passwords {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.buttonbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+.usbutton {
+    padding: 110px 175px 110px 175px;
+}
+.passbutton {
+    display: flex;
+    margin: 100px;
+    margin-left: 250px;
+}
+.ourpictures {
+    display: flex;
+    flex-direction: column;
+}
+#pictures {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    
+}
+#label, #Title {
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    
+}
+#Title {
+    font-size: 32px;
+    font-weight: 700;
+    padding: 50px;
+    padding-top: 30px;
+}
+#label {
+    font-size: 22px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+
+}
+p {
+    font-size: 22px;
+    font-weight: 500;
+}
